@@ -1,1 +1,1 @@
-# TDI_Proposal
+# The Data Incubator Project Proposal
